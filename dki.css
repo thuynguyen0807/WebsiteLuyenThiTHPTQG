@@ -1,0 +1,18 @@
+.container
+{
+}
+body {  
+padding-top: 10px;
+color: #0D0D0D;
+/*padding-left: 650px;*/
+}
+.form-control { 
+margin-bottom: 10px;
+}
+.login-screen-bg {  
+background-color: #EFEFEF;
+
+}
+.color {
+	color: #040404;
+}
